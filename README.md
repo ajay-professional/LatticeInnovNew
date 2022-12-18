@@ -5,7 +5,7 @@
 3)sequelize
 4)cors
 
-COLLECTION : LINK:  https://www.getpostman.com/collections/234e6e5cca52ee2ef3db
+COLLECTION : LINK: https://go.postman.co/workspace/Team-Workspace~b266b1e5-9113-4fe3-8bde-6e32a3f9cf8d/collection/21755444-823c3c9b-1739-4751-ab41-2c4fd2062233?action=share&creator=21755444
 
 API endpoints:-
 POST:-
